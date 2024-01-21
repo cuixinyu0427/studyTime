@@ -150,7 +150,7 @@ function question() {
         <p style="font-size:14px;line-height: 1.5;text-align:left;margin-bottom:5px;"><b>4. </b>时间下面的文字点击可编辑，回车进行确认。不编辑则默认显示随机励志文本。</p>
         <p style="font-size:14px;line-height: 1.5;text-align:left;margin-bottom:5px;"><b>5. </b>时间问题先更新这么多，目前来看已经够用，以后有空了慢慢更新。</p>
         <p style="font-size:14px;line-height: 1.5;text-align:left;margin-bottom:5px;"><b>6. </b>本站由<a href="https://vercel.com/"> Vercel </a> 提供托管服务</p>
-        <p style="font-size:14px;line-height: 1.5;text-align:left;margin-bottom:5px;"><b>7. </b>问题反馈（Q/V同号）：<span style="color:#2196f3">990320751</span></p>
+        <p style="font-size:14px;line-height: 1.5;text-align:left;margin-bottom:5px;"><b>7. </b>问题反馈（邮箱）：<span style="color:#2196f3">524000363@qq.com</span></p>
         <div style="display: flex;align-items: center;justify-content: space-between;"><button id="hideFooterBtn" onclick="hideFooter()">显/隐版权信息</button><button id="cleerData" onclick="clearData()">清除本地数据</button></div>
         `,
         'okBtn': '关闭',
